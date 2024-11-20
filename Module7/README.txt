@@ -8,7 +8,7 @@
    -- The trained model in the /model folder
    
 
-3) To downoad the datafiles, I needed to run a bash script. So, I first had to
+3) To download the datafiles, I needed to run a bash script. So, I first had to
    install Ubuntu as Windows Subsystem Linux (WSL) option, and then
 
 
